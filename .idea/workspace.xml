@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/countriesV2.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="100" column="6" lean-forward="true" selection-start-line="100" selection-start-column="6" selection-end-line="100" selection-end-column="6" />
+            <state relative-caret-position="282">
+              <caret line="2323" column="82" selection-start-line="2323" selection-start-column="82" selection-end-line="2323" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -31,6 +31,7 @@
     <findStrings>
       <find>htt</find>
       <find>https://restcountries.eu/data/png/</find>
+      <find>but.pn</find>
     </findStrings>
     <replaceStrings>
       <replace>https://raw.githubusercontent.com/DevTides/countries/master/</replace>
@@ -145,8 +146,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/countriesV2.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="100" column="6" lean-forward="true" selection-start-line="100" selection-start-column="6" selection-end-line="100" selection-end-column="6" />
+        <state relative-caret-position="282">
+          <caret line="2323" column="82" selection-start-line="2323" selection-start-column="82" selection-end-line="2323" selection-end-column="82" />
         </state>
       </provider>
     </entry>
